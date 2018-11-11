@@ -1,0 +1,25 @@
+{
+  "name": "hyper-monokai-extended",
+  "description": "Enhanced monokai theme for the hyper terminal.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/jonschlinkert/hyper-monokai-extended",
+  "repository": "jonschlinkert/hyper-monokai-extended",
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/hyper-monokai-extended/issues"
+  },
+  "license": "MIT",
+  "files": ["index.js"],
+  "main": "index.js",
+  "keywords": [
+    "extended",
+    "hyper",
+    "hyper.app",
+    "hyper-theme",
+    "hyper-monokai",
+    "theme",
+    "monokai-theme",
+    "hyperterm",
+    "terminal",
+    "monokai"
+  ]
+}
